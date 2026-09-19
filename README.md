@@ -1,4 +1,4 @@
-# Elaine — Academic Homepage
+# Yilin Long — Academic Homepage
 
 Published website: https://elaine6107.github.io/
 
